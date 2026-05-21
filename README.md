@@ -73,14 +73,17 @@ Start Apache and MySQL, then open:texthttp://localhost/afroswiden-real-estate
 
 
 📄 Acknowledgments & References
+
 This project was inspired by various open-source real estate platforms and modern web development practices. Several design patterns, components, and technical approaches were adapted and enhanced from other reputable projects.
 We greatly appreciate the open-source community whose work helped shape this system. It is our sincere hope that students, developers, and aspiring engineers will learn a lot from this project.
 
 📜 License
+
 This project is open-sourced under the MIT License. Feel free to use it for learning, personal projects, and academic purposes.
 Company branding remains the property of Afro-Sweden Real Estate and should not be used commercially without permission.
 
 🙏 Acknowledgments
+
 This project was inspired by various open-source real estate platforms and modern web development practices. Several design patterns, components, and technical approaches were adapted and enhanced from other reputable projects.
 We greatly appreciate the open-source community whose work helped shape this system. It is our sincere hope that students, developers, and aspiring engineers will learn a lot from this project.
 
