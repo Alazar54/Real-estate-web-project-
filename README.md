@@ -1,4 +1,4 @@
-# Afroswiden Real Estate Management System
+# Real Estate Management System
 
 A modern, full-featured **Real Estate Management System** developed for the Ethiopian market.
 
@@ -6,7 +6,7 @@ A modern, full-featured **Real Estate Management System** developed for the Ethi
 
 ## 📋 Project Overview
 
-**Afroswiden Real Estate Management System** is a comprehensive web-based platform that facilitates property listing, searching, reservation, payment, and management.
+**This Real Estate Management System** is a comprehensive web-based platform that facilitates property listing, searching, reservation, payment, and management.
 
 This project was developed as a **Senior Year Capstone Project** in collaboration with **Afro-Sweden Real Estate**, a real company based in Addis Ababa, Ethiopia. The system was designed specifically with their actual business requirements and operational workflows in mind.
 
